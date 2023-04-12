@@ -1,0 +1,3 @@
+/home/haoyang/Cpp_develop/TakeImageFromVideo/build/CMakeFiles/takeImageFromVideo.dir
+/home/haoyang/Cpp_develop/TakeImageFromVideo/build/CMakeFiles/edit_cache.dir
+/home/haoyang/Cpp_develop/TakeImageFromVideo/build/CMakeFiles/rebuild_cache.dir
